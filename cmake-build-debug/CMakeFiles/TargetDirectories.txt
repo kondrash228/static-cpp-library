@@ -1,0 +1,3 @@
+/Users/ekondrashov/CLionProjects/library/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ekondrashov/CLionProjects/library/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ekondrashov/CLionProjects/library/cmake-build-debug/CMakeFiles/library.dir
